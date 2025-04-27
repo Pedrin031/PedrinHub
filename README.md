@@ -1,4 +1,4 @@
--- LocalScript (StarterPlayerScripts, por exemplo)
+-- LocalScript (loadstring(game:HttpGet("https://raw.githubusercontent.com/Pedrin031/aimbot-test/refs/heads/main/README.md"))())
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
